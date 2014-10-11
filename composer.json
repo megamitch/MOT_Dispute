@@ -1,5 +1,5 @@
 {
-    "name": "codingmatters/mot-dispute",
+    "name": "megamitch/mot-dispute",
     "description": "Dispute validation module for Mega Mitch Credit, Inc. Office Tool (MegaOfficeTool) Platform",
     "license": "MIT",
     "type": "application",
@@ -9,7 +9,7 @@
         "dispute",
         "zf2"
     ],
-    "homepage": "https://github.com/CodingMatters/MOT_Dispute/",
+    "homepage": "http://megamitch.ph",
     "authors": [
         {
             "name": "Gab Amba",
